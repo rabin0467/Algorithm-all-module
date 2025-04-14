@@ -1,0 +1,1 @@
+{"name":"Local: sundarban","url":"c:\\Algorithms\\Module_13\\sundarban.cpp","tests":[{"id":1740991907916,"input":"5\nSPPPP\nTPTPP\nTPPPP\nPTETT\nPTPTT","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Algorithms\\Module_13\\sundarban.cpp","group":"local","local":true}

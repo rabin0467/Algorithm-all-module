@@ -1,0 +1,1 @@
+{"name":"Local: queue_problem_04","url":"c:\\Algorithms\\XPSC_peperation\\Module_6.5\\queue_problem_04.cpp","tests":[{"id":1741715696213,"input":"5\n10 20 30 40 50\n","output":"50 40 30 20 10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Algorithms\\XPSC_peperation\\Module_6.5\\queue_problem_04.cpp","group":"local","local":true}
